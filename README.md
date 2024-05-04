@@ -1,5 +1,7 @@
 # Employee Time Card App
 
+<img src="preview.gif" width="400">
+
 ## Introduction
 The Digital Timecard Recorder is a Python program designed to automate the process of recording clock-in and clock-out times for employees, particularly inspired by the traditional punch card systems still prevalent in many companies, especially in Japan. This program aims to streamline the time-tracking process, reducing manual effort and potential errors associated with traditional methods.
 
